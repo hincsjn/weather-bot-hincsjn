@@ -1,1 +1,1 @@
-web: python weather-bot-hincsjn.py
+worker: python weather-bot-hincsjn.py
